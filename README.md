@@ -1,5 +1,5 @@
 # Controle_Ar_condicionado_Android
-O Mini projeto tem por finalidade o acionamento remoto de um Ar condicionado remotamente, utilizando a linguagem JAVA e um Arduino.
+O Mini projeto tem por finalidade o acionamento remoto de um Ar condicionado, utilizando a linguagem JAVA e um Arduino.
 
 App_Android X Servidor_JAVA_Socket_Serial X Arduino_ledInfravermelho
 
