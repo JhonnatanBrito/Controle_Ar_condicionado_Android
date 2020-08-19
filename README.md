@@ -9,4 +9,6 @@ tudo começou quando precisei acionar o ar condicionado, assim que chegava no es
 desenvolvi um servidor soquete, para comunicação com o Android e sim ele é controlado pelo pelo celular, e usei a porta Serial do arduino pra fazer a escuta. bingo!!
 já tinha um meio entre eles. 
 
+### Assistir ao Vídeo de exemplo.
+[![Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.](http://img.youtube.com/vi/Zf3eASwBFTs/0.jpg)](http://www.youtube.com/watch?v=Zf3eASwBFTs "Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.")
 Obs: este projeto, tem por finalidade ser um objeto de estudo e Conhecimento.
