@@ -10,5 +10,5 @@ desenvolvi um servidor soquete, para comunicação com o Android e sim ele é co
 já tinha um meio entre eles. 
 
 ### Assistir ao Vídeo de exemplo.
-[![Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.](http://img.youtube.com/vi/Zf3eASwBFTs/0.jpg)](http://www.youtube.com/watch?v=Zf3eASwBFTs "Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.")
+[![Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.](http://img.youtube.com/vi/Zf3eASwBFTs/0.jpg)](http://www.youtube.com/watch?v=Zf3eASwBFTs "Clique para Assistir")
 Obs: este projeto, tem por finalidade ser um objeto de estudo e Conhecimento.
