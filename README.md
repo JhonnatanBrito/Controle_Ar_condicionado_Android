@@ -9,4 +9,4 @@ tudo começou quando precisei acionar o ar condicionado, assim que chegava no es
 desenvolvi um servidor soquete, para comunicação com o Android e sim ele é controlado pelo pelo celular, e usei a porta Serial do arduino pra fazer a escuta. bingo!!
 já tinha um meio entre eles. 
 
-Obs: este projeto, tem por finalidade ser um objeto de estudo.
+Obs: este projeto, tem por finalidade ser um objeto de estudo e Conhecimento.
