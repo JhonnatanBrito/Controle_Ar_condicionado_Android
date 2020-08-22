@@ -10,6 +10,7 @@ já tinha um meio de comunicação entre eles.
 O Servidor recebe o soquete do App Android, ler e enviar pela Serial ao arduino que enviar o comando infravermelho acionando o Ar condicionado. :D
 
 ### Assistir ao Vídeo de exemplo.
+[![Clique aqui para assistir o vídeo..!](http://img.youtube.com/vi/QEv3DW897bA/0.jpg)](http://www.youtube.com/watch?v=QEv3DW897bA "Clique aqui para assistir o vídeo..!")
 [![Acionando Ar condicionado pela internet (Remoto) - App Android - JAVA - Arduino.](http://img.youtube.com/vi/Zf3eASwBFTs/0.jpg)](http://www.youtube.com/watch?v=Zf3eASwBFTs "Clique para Assistir")
 #
 Obs: este projeto, tem por finalidade ser um objeto de estudo e Conhecimento.
